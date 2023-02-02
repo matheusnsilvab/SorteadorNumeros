@@ -25,3 +25,14 @@ div.box h1 {
    color: #000;
    margin: 15px 0;
 }
+
+div.box button {
+   padding: 10px 15px;
+   font-size: 16pt;
+   color: #fff;
+   border-radius: 3px;
+   transition: .3s all ease-in-out;
+   border: none;
+   cursor: pointer;
+   background-color: #333;
+}
