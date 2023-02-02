@@ -10,3 +10,12 @@ body {
    place-items: center;
    background-color: #D8B08C;
 }
+
+div.box {
+   position: fixed;
+   min-width: 100px;
+   background-color: #fff;
+   border-radius: 3px;
+   text-align: center;
+   padding: 15px 2%;
+}
