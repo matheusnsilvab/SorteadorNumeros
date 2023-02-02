@@ -19,3 +19,9 @@ div.box {
    text-align: center;
    padding: 15px 2%;
 }
+
+div.box h1 {
+   font-size: 1.8rem;
+   color: #000;
+   margin: 15px 0;
+}
