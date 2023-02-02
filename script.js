@@ -1,0 +1,1 @@
+var numeroSorteado = document.querySelector("div.box h1");
